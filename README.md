@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daisy Ban</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://toddlf705.github.io/Portfolio_Daisy-Ban/'>Daisy Ban</a></h1>
 <h3 align="center">I'm a full stack developer from Atlanta</h3>
 
 - 🌱 I’m currently learning **AWS**
